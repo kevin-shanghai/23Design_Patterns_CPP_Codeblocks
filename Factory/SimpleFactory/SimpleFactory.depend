@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1378472302 source:d:\programing\practice\design pattern\simplefactory\product.cpp
+	"Product.h"
+	<iostream>
+
+1378472193 d:\programing\practice\design pattern\simplefactory\product.h
+
+1378474410 source:d:\programing\practice\design pattern\simplefactory\main.cpp
+	<iostream>
+	"Factory.h"
+
+1378474317 source:d:\programing\practice\design pattern\simplefactory\factory.cpp
+	"Factory.h"
+	<iostream>
+	"Product.h"
+
+1378473472 d:\programing\practice\design pattern\simplefactory\factory.h
+	<iostream>
+

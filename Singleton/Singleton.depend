@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378428161 source:d:\programing\practice\design pattern\singleton\main.cpp
+	<iostream>
+	"Singleton.h"
+
+1378391689 source:d:\programing\practice\design pattern\singleton\singleton.cpp
+	<iostream>
+	"Singleton.h"
+
+1378391689 d:\programing\practice\design pattern\singleton\singleton.h
+

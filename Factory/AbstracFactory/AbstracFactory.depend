@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1378303284 source:d:\programing\practice\design pattern\factory\abstracfactory\src\factory.cpp
+	<iostream>
+	"include/Factory.h"
+	"include/ProductA.h"
+	"include/ProductB.h"
+
+1378303284 d:\programing\practice\design pattern\factory\abstracfactory\include\factory.h
+
+1378302894 d:\programing\practice\design pattern\factory\abstracfactory\include\producta.h
+
+1378303101 d:\programing\practice\design pattern\factory\abstracfactory\include\productb.h
+
+1378303821 source:d:\programing\practice\design pattern\factory\abstracfactory\src\producta.cpp
+	"include/ProductA.h"
+	<iostream>
+
+1378303818 source:d:\programing\practice\design pattern\factory\abstracfactory\src\productb.cpp
+	"include/ProductB.h"
+	<iostream>
+
+1378303533 source:d:\programing\practice\design pattern\factory\abstracfactory\main.cpp
+	<iostream>
+	"include/Factory.h"
+

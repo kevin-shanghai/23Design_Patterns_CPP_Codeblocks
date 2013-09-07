@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1378168388 source:d:\programing\practice\design pattern\factory\factory\product.cpp
+	<iostream>
+	"Product.h"
+
+1378168392 d:\programing\practice\design pattern\factory\factory\product.h
+
+1378126645 source:d:\programing\practice\design pattern\factory\factory\main.cpp
+	<iostream>
+	"Factory.h"
+	"Product.h"
+
+1378169555 d:\programing\practice\design pattern\factory\factory\factory.h
+	"Product.h"
+
+1378169555 source:d:\programing\practice\design pattern\factory\factory\factory.cpp
+	"Factory.h"
+	<iostream>
+
+1378169596 source:d:\programing\practice\design pattern\factory\factorymethod\main.cpp
+	<iostream>
+	"Factory.h"
+	"Product.h"
+
+1378169555 d:\programing\practice\design pattern\factory\factorymethod\factory.h
+	"Product.h"
+
+1378168392 d:\programing\practice\design pattern\factory\factorymethod\product.h
+

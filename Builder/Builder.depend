@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1378480047 source:d:\programing\practice\design pattern\builder\main.cpp
+	<iostream>
+	"Director.h"
+
+1378479336 source:d:\programing\practice\design pattern\builder\builder.cpp
+	"Builder.h"
+	<iostream>
+
+1378479021 d:\programing\practice\design pattern\builder\builder.h
+
+1378477435 source:d:\programing\practice\design pattern\builder\director.cpp
+	"Director.h"
+	<iostream>
+
+1378477157 d:\programing\practice\design pattern\builder\director.h
+	"Builder.h"
+
