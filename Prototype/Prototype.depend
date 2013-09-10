@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378820524 source:d:\programing\practice\design pattern\prototype\main.cpp
+	<iostream>
+	"Prototype.h"
+
+1378820476 source:d:\programing\practice\design pattern\prototype\prototype.cpp
+	"Prototype.h"
+	<iostream>
+
+1378820476 d:\programing\practice\design pattern\prototype\prototype.h
+
