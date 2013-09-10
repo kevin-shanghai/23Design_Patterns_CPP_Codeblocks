@@ -17,3 +17,10 @@ AbstractFactory pattern
 -
 ![Alt text](/Factory/AbstracFactory/abstractFactory.jpg)
 
+Builder pattern
+-
+![Alt text](Builder/Builder.jpg)
+
+Prototype pattern
+-
+![Alt text](Prototype/Prototype.jpg)
