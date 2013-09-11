@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1378901992 source:d:\programing\practice\design pattern\bridge\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1378901914 d:\programing\practice\design pattern\bridge\shape.h
+	"Color.h"
+
+1378901746 source:d:\programing\practice\design pattern\bridge\main.cpp
+	<iostream>
+	"Color.h"
+	"Shape.h"
+
+1378900517 source:d:\programing\practice\design pattern\bridge\color.cpp
+	"Color.h"
+	<iostream>
+
+1378900369 d:\programing\practice\design pattern\bridge\color.h
+	<iostream>
+
