@@ -54,7 +54,7 @@ Blue::Blue():m_sColorName("Blue")
 
 Blue::~Blue()
 {
-    cout<<"Blue::Blue()."<<endl;
+    cout<<"Blue::~Blue()."<<endl;
 }
 
 string Blue::GetColorName()
