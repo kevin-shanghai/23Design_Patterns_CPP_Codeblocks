@@ -5,9 +5,9 @@
 ##23 Design patterns implemented by cpp with codeblocks
 
 
-###The dierectory "Factory" consist two main project as "FactoryMethod" and "AbstracFactory", 
+###The dierectory "Factory" consist of 23 projects which are the implementation of the ###23 kinds design patterns!", 
 
-###The following two pictures are the UML relationship of these two project.
+###The following two pictures are the UML relationship of these these project.
 
 FactoryMethod pattern
 -
@@ -24,3 +24,9 @@ Builder pattern
 Prototype pattern
 -
 ![Alt text](Prototype/Prototype.jpg)
+
+Bridge pattern
+-
+
+![Alt text](Bridge/Bridge.jpg)
+
