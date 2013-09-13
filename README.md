@@ -27,6 +27,13 @@ Prototype pattern
 
 Bridge pattern
 -
-
 ![Alt text](Bridge/Bridge.jpg)
+
+classAdapter pattern
+-
+![Alt text](Adapter/ClassAdapter/ClassAdapter.jpg)
+
+InstanceAdapter pattern
+-
+![Alt text](Adapter/InstanceAdapter/InstanceAdapter.jpg)
 
