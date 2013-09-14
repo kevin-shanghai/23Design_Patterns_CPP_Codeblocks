@@ -37,3 +37,6 @@ InstanceAdapter pattern
 -
 ![Alt text](Adapter/InstanceAdapter/InstanceAdapter.jpg)
 
+Decorator pattern
+-
+![Alt text](Decorator/Decorator.jpg)
