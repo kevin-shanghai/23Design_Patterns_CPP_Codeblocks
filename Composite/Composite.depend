@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1379300409 source:d:\programing\practice\design pattern\composite\main.cpp
+	<iostream>
+	"Compositor.h"
+
+1379300313 source:d:\programing\practice\design pattern\composite\compositor.cpp
+	"Compositor.h"
+
+1379299955 d:\programing\practice\design pattern\composite\compositor.h
+	<iostream>
+	<list>
+
