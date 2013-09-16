@@ -40,3 +40,7 @@ InstanceAdapter pattern
 Decorator pattern
 -
 ![Alt text](Decorator/Decorator.jpg)
+
+Compositor pattern
+-
+![Alt text](Composite/Compositor.png)
