@@ -44,3 +44,7 @@ Decorator pattern
 Compositor pattern
 -
 ![Alt text](Composite/Compositor.png)
+
+Flyweight pattern
+-
+![Alt text](Flyweight/Flyweight.jpg)
