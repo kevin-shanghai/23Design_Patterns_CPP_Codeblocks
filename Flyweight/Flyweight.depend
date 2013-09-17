@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1379383887 source:d:\programing\practice\design pattern\flyweight\main.cpp
+1379384408 source:d:\programing\practice\design pattern\flyweight\main.cpp
 	<iostream>
 	"Flyweight.h"
 
-1379384312 source:d:\programing\practice\design pattern\flyweight\flyweight.cpp
+1379387569 source:d:\programing\practice\design pattern\flyweight\flyweight.cpp
 	"Flyweight.h"
 
 1379383633 d:\programing\practice\design pattern\flyweight\flyweight.h

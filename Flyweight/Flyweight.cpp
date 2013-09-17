@@ -68,5 +68,6 @@ Flyweight* FlyweightFactory::GetInstance(string status)
         }
     Flyweight *NewInstance = new ConcreteFlyweight(status);
     m_lfly.push_back(NewInstance);
+    cout<<"You have created: "<<m_lfly.size()<<" instace(s)."<<endl;;
     return NewInstance;
 }
