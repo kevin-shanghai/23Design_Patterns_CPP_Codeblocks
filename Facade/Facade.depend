@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379599955 source:d:\programing\practice\design pattern\facade\main.cpp
+	<iostream>
+	"Facade.h"
+
+1379600021 source:d:\programing\practice\design pattern\facade\facade.cpp
+	"Facade.h"
+	<iostream>
+
+1379599955 d:\programing\practice\design pattern\facade\facade.h
+
