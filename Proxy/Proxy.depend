@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379858813 source:d:\programing\practice\design pattern\proxy\main.cpp
+	<iostream>
+	"Proxy.h"
+
+1379858857 source:d:\programing\practice\design pattern\proxy\proxy.cpp
+	"Proxy.h"
+	<iostream>
+
+1379858869 d:\programing\practice\design pattern\proxy\proxy.h
+
