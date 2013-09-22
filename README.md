@@ -52,3 +52,7 @@ Flyweight pattern
 Facade pattern
 -
 ![Alt text](Facade/Facade.jpg)
+
+Proxy pattern
+-
+![Alt text](Proxy/Proxy.jpg)
