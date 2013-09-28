@@ -56,3 +56,7 @@ Facade pattern
 Proxy pattern
 -
 ![Alt text](Proxy/Proxy.jpg)
+
+Template pattern
+-
+![Alt text](Template/Template.jpg)

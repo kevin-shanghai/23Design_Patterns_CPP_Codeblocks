@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1380351263 source:d:\programing\practice\design pattern\strategy\strategy.cpp
+	"Strategy.h"
+	<iostream>
+
+1380351153 d:\programing\practice\design pattern\strategy\strategy.h
+
+1189868556 source:d:\programing\practice\design pattern\strategy\main.cpp
+	<iostream>
+
+1380351186 source:d:\programing\practice\design pattern\strategy\context.cpp
+	"Context.h"
+	<iostream>
+
+1380351465 d:\programing\practice\design pattern\strategy\context.h
+	"Strategy.h"
+
