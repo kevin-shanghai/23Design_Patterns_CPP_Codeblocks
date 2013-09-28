@@ -64,3 +64,7 @@ Template pattern
 Strategy pattern
 -
 ![Alt text](Strategy/Strategy.jpg)
+
+State pattern
+-
+![Alt text](State/State.jpg)
