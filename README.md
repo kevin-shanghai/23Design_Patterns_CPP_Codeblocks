@@ -60,3 +60,7 @@ Proxy pattern
 Template pattern
 -
 ![Alt text](Template/Template.jpg)
+
+Strategy pattern
+-
+![Alt text](Strategy/Strategy.jpg)
