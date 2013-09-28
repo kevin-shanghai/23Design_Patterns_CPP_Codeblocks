@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1380372527 source:d:\programing\practice\design pattern\state\main.cpp
+	<iostream>
+	"Context.h"
+	"State.h"
+
+1380372465 source:d:\programing\practice\design pattern\state\context.cpp
+	"Context.h"
+
+1380372497 d:\programing\practice\design pattern\state\context.h
+	"State.h"
+
+1380372497 source:d:\programing\practice\design pattern\state\state.cpp
+	"State.h"
+	<iostream>
+
+1380371628 d:\programing\practice\design pattern\state\state.h
+	"Context.h"
+
