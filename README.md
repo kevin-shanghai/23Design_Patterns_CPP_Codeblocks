@@ -72,3 +72,7 @@ State pattern
 Observer pattern
 -
 ![Alt text](Observer/Observer.jpg)
+
+Memento pattern
+-
+![Alt text](Memento/Memento.jpg)
