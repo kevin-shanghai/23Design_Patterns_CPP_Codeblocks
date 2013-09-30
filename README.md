@@ -68,3 +68,7 @@ Strategy pattern
 State pattern
 -
 ![Alt text](State/State.jpg)
+
+Observer pattern
+-
+![Alt text](Observer/Observer.jpg)
