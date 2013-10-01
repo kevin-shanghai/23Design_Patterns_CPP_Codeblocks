@@ -76,3 +76,7 @@ Observer pattern
 Memento pattern
 -
 ![Alt text](Memento/Memento.jpg)
+
+Mediator pattern
+-
+![Alt text](Mediator/Mediator.jpg)
