@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1380642834 source:d:\programing\practice\design pattern\mediator\main.cpp
+	<iostream>
+	"Mediator.h"
+	"User.h"
+
+1380643952 source:d:\programing\practice\design pattern\mediator\user.cpp
+	"User.h"
+
+1380643904 d:\programing\practice\design pattern\mediator\user.h
+	<iostream>
+	"Mediator.h"
+
+1380643922 source:d:\programing\practice\design pattern\mediator\mediator.cpp
+	"Mediator.h"
+
+1380643797 d:\programing\practice\design pattern\mediator\mediator.h
+	"User.h"
+	<iostream>
+
