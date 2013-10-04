@@ -7,6 +7,7 @@
 
 ###The dierectory "Factory" consist of 23 projects which are the implementation of the ###23 kinds design patterns!", 
 
+
 ###The following two pictures are the UML relationship of these these project.
 
 FactoryMethod pattern
