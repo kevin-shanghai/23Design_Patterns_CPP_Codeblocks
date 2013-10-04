@@ -80,3 +80,7 @@ Memento pattern
 Mediator pattern
 -
 ![Alt text](Mediator/Mediator.jpg)
+
+Command pattern
+-
+![Alt text](Command/Command.jpg)
