@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1380890814 source:d:\programing\practice\design pattern\command\computerfactory.cpp
+	"ComputerFactory.h"
+	<iostream>
+
+1380889890 d:\programing\practice\design pattern\command\computerfactory.h
+
+1380900069 source:d:\programing\practice\design pattern\command\main.cpp
+	<iostream>
+	"Command.h"
+	"ComputerFactory.h"
+	"Receiver.h"
+
+1380900211 source:d:\programing\practice\design pattern\command\command.cpp
+	"Command.h"
+	<iostream>
+
+1380900153 d:\programing\practice\design pattern\command\command.h
+	"ComputerFactory.h"
+
+1380900272 source:d:\programing\practice\design pattern\command\receiver.cpp
+	"Receiver.h"
+	<iostream>
+
+1380894589 d:\programing\practice\design pattern\command\receiver.h
+	<iostream>
+	<list>
+	"Command.h"
+
