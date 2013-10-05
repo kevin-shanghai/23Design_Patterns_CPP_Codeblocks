@@ -85,3 +85,7 @@ Mediator pattern
 Command pattern
 -
 ![Alt text](Command/Command.jpg)
+
+Visitor pattern
+-
+![Alt text](Visitor/Visitor.jpg)
