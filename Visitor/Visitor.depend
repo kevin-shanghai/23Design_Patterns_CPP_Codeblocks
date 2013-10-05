@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1380964423 source:d:\programing\practice\design pattern\visitor\element.cpp
+	"Element.h"
+	"Visitor.h"
+
+1380963354 d:\programing\practice\design pattern\visitor\element.h
+	<iostream>
+
+1380965382 source:d:\programing\practice\design pattern\visitor\main.cpp
+	<iostream>
+	"Visitor.h"
+	"BlogList.h"
+	"Element.h"
+
+1380965028 source:d:\programing\practice\design pattern\visitor\bloglist.cpp
+	"BlogList.h"
+
+1380964934 d:\programing\practice\design pattern\visitor\bloglist.h
+	<list>
+	"Element.h"
+
+1380965408 source:d:\programing\practice\design pattern\visitor\visitor.cpp
+	"Visitor.h"
+	"Element.h"
+	<iostream>
+
+1380962735 d:\programing\practice\design pattern\visitor\visitor.h
+
