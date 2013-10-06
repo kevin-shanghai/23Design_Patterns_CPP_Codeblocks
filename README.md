@@ -89,3 +89,7 @@ Command pattern
 Visitor pattern
 -
 ![Alt text](Visitor/Visitor.jpg)
+
+ChainOfResponsibility pattern
+-
+![Alt text](ChainOfResponsibility/ChainOfResponsibility.jpg)
