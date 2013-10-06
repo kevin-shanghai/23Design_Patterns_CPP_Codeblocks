@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1381050687 source:d:\programing\practice\design pattern\chainofresponsibility\main.cpp
+	<iostream>
+	"Approver.h"
+
+1381050825 source:d:\programing\practice\design pattern\chainofresponsibility\approver.cpp
+	"Approver.h"
+	<iostream>
+
+1381048927 d:\programing\practice\design pattern\chainofresponsibility\approver.h
+
