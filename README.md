@@ -93,3 +93,7 @@ Visitor pattern
 ChainOfResponsibility pattern
 -
 ![Alt text](ChainOfResponsibility/ChainOfResponsibility.jpg)
+
+Iterator pattern
+-
+![Alt text](Iterator/Iterator.jpg)
