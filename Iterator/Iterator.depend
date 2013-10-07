@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1381153477 source:d:\programing\practice\design pattern\iterator\iterator.cpp
+	"Iterator.h"
+
+1381153477 d:\programing\practice\design pattern\iterator\iterator.h
+	"Container.h"
+
+1381153137 source:d:\programing\practice\design pattern\iterator\main.cpp
+	<iostream>
+	"Container.h"
+	"Iterator.h"
+
+1381153077 source:d:\programing\practice\design pattern\iterator\container.cpp
+	"Container.h"
+
+1381151970 d:\programing\practice\design pattern\iterator\container.h
+	"Iterator.h"
+
