@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1381241610 source:d:\programing\practice\design pattern\interpretor\interpretor.cpp
+	"Interpretor.h"
+	<iostream>
+
+1381241347 d:\programing\practice\design pattern\interpretor\interpretor.h
+	"Context.h"
+
+1381241669 source:d:\programing\practice\design pattern\interpretor\main.cpp
+	<iostream>
+	"Context.h"
+	"Interpretor.h"
+
+1381241776 source:d:\programing\practice\design pattern\interpretor\context.cpp
+	"Context.h"
+
+1381238246 d:\programing\practice\design pattern\interpretor\context.h
+	<iostream>
+
