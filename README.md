@@ -97,3 +97,7 @@ ChainOfResponsibility pattern
 Iterator pattern
 -
 ![Alt text](Iterator/Iterator.jpg)
+
+Interpreter pattern
+-
+![Alt text](Interpretor/Interpretor.jpg)
